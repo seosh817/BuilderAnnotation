@@ -10,3 +10,7 @@ plugins {
 }
 
 rootProject.name = 'BuilderAnnotation'
+
+include 'example'
+include 'builder-annotation'
+include 'builder-processor'
